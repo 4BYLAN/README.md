@@ -26,7 +26,7 @@ J'ai commencé le développement web au collège, en fin de classe de 2e seconda
 ## Pourquoi le web
 Beaucoup de personnes disent que le développement web ça sert à rien et que ça se limite que au HTML-CSS ( Frontend ) alors que c'est beaucoup plus large comme "branche".
 <p>
-C'est "le lait dans les cérales" :
+C'est "le lait dans les céréales" :
 
 ###
 <img src="https://zupimages.net/up/24/50/c13l.png" height=300px alt="le lait dans les cereales">
